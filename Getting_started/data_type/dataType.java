@@ -19,7 +19,8 @@ public class DataType {
         boolean h = true;
 
         // Printing all of them
-        System.out.println(a + " " + b + " " + c + " " + d + " " + e + " " + f + " " + g + " " + h);
+        System.out.println(a + " " + b + " " + c + " " + d + " " + e + " " + f + " "
+                + g + " " + h);
 
     }
 }

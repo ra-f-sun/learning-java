@@ -4,6 +4,8 @@
 // "||" : Defines OR
 // "!" : Defines NOT
 
+import java.util.Scanner;
+
 public class Logical {
     public static void main(String[] args) {
         int a = 5;
@@ -14,6 +16,7 @@ public class Logical {
 
         System.out.println(a + " is less-equal AND not equal to " + b);
         System.out.println(a <= b && a != b);
+
     }
 
 }
